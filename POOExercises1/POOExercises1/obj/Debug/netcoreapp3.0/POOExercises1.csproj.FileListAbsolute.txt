@@ -1,0 +1,11 @@
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.exe
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.deps.json
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.runtimeconfig.json
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.runtimeconfig.dev.json
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.dll
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\bin\Debug\netcoreapp3.0\POOExercises1.pdb
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\obj\Debug\netcoreapp3.0\POOExercises1.csprojAssemblyReference.cache
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\obj\Debug\netcoreapp3.0\POOExercises1.AssemblyInfoInputs.cache
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\obj\Debug\netcoreapp3.0\POOExercises1.AssemblyInfo.cs
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\obj\Debug\netcoreapp3.0\POOExercises1.dll
+C:\Users\testinho\Source\Repos\POOExercises1\POOExercises1\obj\Debug\netcoreapp3.0\POOExercises1.pdb
