@@ -1,0 +1,11 @@
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.exe
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.deps.json
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.runtimeconfig.json
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.runtimeconfig.dev.json
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.dll
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\bin\Debug\netcoreapp3.0\VetListasExercicios.pdb
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\obj\Debug\netcoreapp3.0\VetListasExercicios.csprojAssemblyReference.cache
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\obj\Debug\netcoreapp3.0\VetListasExercicios.AssemblyInfoInputs.cache
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\obj\Debug\netcoreapp3.0\VetListasExercicios.AssemblyInfo.cs
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\obj\Debug\netcoreapp3.0\VetListasExercicios.dll
+C:\Users\testinho\Source\Repos\VetListasExercicios\VetListasExercicios\obj\Debug\netcoreapp3.0\VetListasExercicios.pdb

@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\obj\Debug\netcoreapp3.0\VetListasExercicios1.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\obj\Debug\netcoreapp3.0\VetListasExercicios1.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\obj\Debug\netcoreapp3.0\VetListasExercicios1.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\bin\Debug\netcoreapp3.0\VetListasExercicios1.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\obj\Debug\netcoreapp3.0\VetListasExercicios1.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\VetListasExercicios1\VetListasExercicios1\obj\Debug\netcoreapp3.0\VetListasExercicios1.pdb
