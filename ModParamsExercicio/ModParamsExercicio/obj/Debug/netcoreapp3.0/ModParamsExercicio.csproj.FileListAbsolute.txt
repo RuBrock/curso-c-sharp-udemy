@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\bin\Debug\netcoreapp3.0\ModParamsExercicio.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\obj\Debug\netcoreapp3.0\ModParamsExercicio.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\obj\Debug\netcoreapp3.0\ModParamsExercicio.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\obj\Debug\netcoreapp3.0\ModParamsExercicio.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\obj\Debug\netcoreapp3.0\ModParamsExercicio.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ModParamsExercicio\ModParamsExercicio\obj\Debug\netcoreapp3.0\ModParamsExercicio.pdb
