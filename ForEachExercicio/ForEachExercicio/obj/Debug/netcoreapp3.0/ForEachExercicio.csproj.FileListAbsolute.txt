@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\bin\Debug\netcoreapp3.0\ForEachExercicio.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\obj\Debug\netcoreapp3.0\ForEachExercicio.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\obj\Debug\netcoreapp3.0\ForEachExercicio.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\obj\Debug\netcoreapp3.0\ForEachExercicio.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\obj\Debug\netcoreapp3.0\ForEachExercicio.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\ForEachExercicio\ForEachExercicio\obj\Debug\netcoreapp3.0\ForEachExercicio.pdb
