@@ -1,0 +1,11 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\bin\Debug\netcoreapp2.1\ListExercicio2.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\bin\Debug\netcoreapp2.1\ListExercicio2.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\bin\Debug\netcoreapp2.1\ListExercicio2.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\bin\Debug\netcoreapp2.1\ListExercicio2.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\bin\Debug\netcoreapp2.1\ListExercicio2.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListExercicio2\ListExercicio2\obj\Debug\netcoreapp2.1\ListExercicio2.pdb

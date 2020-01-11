@@ -1,0 +1,11 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\bin\Debug\netcoreapp2.1\ListsFixacaoExercicise.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\bin\Debug\netcoreapp2.1\ListsFixacaoExercicise.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\bin\Debug\netcoreapp2.1\ListsFixacaoExercicise.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\bin\Debug\netcoreapp2.1\ListsFixacaoExercicise.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\bin\Debug\netcoreapp2.1\ListsFixacaoExercicise.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ListsFixacaoExercicise\ListsFixacaoExercicise\obj\Debug\netcoreapp2.1\ListsFixacaoExercicise.csprojAssemblyReference.cache

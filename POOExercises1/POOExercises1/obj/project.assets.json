@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\testinho\\.nuget\\packages\\": {}
+    "C:\\Users\\LS8310534056\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\testinho\\Source\\Repos\\POOExercises1\\POOExercises1\\POOExercises1.csproj",
+      "projectUniqueName": "C:\\Users\\LS8310534056\\Desktop\\LITTLE PROJECTS\\curso-c-sharp-udemy\\POOExercises1\\POOExercises1\\POOExercises1.csproj",
       "projectName": "POOExercises1",
-      "projectPath": "C:\\Users\\testinho\\Source\\Repos\\POOExercises1\\POOExercises1\\POOExercises1.csproj",
-      "packagesPath": "C:\\Users\\testinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\testinho\\Source\\Repos\\POOExercises1\\POOExercises1\\obj\\",
+      "projectPath": "C:\\Users\\LS8310534056\\Desktop\\LITTLE PROJECTS\\curso-c-sharp-udemy\\POOExercises1\\POOExercises1\\POOExercises1.csproj",
+      "packagesPath": "C:\\Users\\LS8310534056\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LS8310534056\\Desktop\\LITTLE PROJECTS\\curso-c-sharp-udemy\\POOExercises1\\POOExercises1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\testinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LS8310534056\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -44,21 +48,10 @@
     "frameworks": {
       "netcoreapp3.0": {
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
