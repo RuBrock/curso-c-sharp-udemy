@@ -1,0 +1,10 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\bin\Debug\netcoreapp2.1\ConjuntosExercicios.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\bin\Debug\netcoreapp2.1\ConjuntosExercicios.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\bin\Debug\netcoreapp2.1\ConjuntosExercicios.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\bin\Debug\netcoreapp2.1\ConjuntosExercicios.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\bin\Debug\netcoreapp2.1\ConjuntosExercicios.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\obj\Debug\netcoreapp2.1\ConjuntosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\obj\Debug\netcoreapp2.1\ConjuntosExercicios.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\obj\Debug\netcoreapp2.1\ConjuntosExercicios.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\obj\Debug\netcoreapp2.1\ConjuntosExercicios.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\ConjuntosExercicios\ConjuntosExercicios\obj\Debug\netcoreapp2.1\ConjuntosExercicios.pdb

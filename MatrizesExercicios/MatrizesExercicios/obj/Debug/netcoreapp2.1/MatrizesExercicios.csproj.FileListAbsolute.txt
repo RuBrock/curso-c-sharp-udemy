@@ -1,0 +1,11 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\bin\Debug\netcoreapp2.1\MatrizesExercicios.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\bin\Debug\netcoreapp2.1\MatrizesExercicios.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\bin\Debug\netcoreapp2.1\MatrizesExercicios.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\bin\Debug\netcoreapp2.1\MatrizesExercicios.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\bin\Debug\netcoreapp2.1\MatrizesExercicios.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesExercicios\MatrizesExercicios\obj\Debug\netcoreapp2.1\MatrizesExercicios.pdb

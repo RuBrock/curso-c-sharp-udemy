@@ -1,0 +1,10 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\bin\Debug\netcoreapp2.1\MatrizesFixacaoExercise.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\bin\Debug\netcoreapp2.1\MatrizesFixacaoExercise.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\bin\Debug\netcoreapp2.1\MatrizesFixacaoExercise.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\bin\Debug\netcoreapp2.1\MatrizesFixacaoExercise.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\bin\Debug\netcoreapp2.1\MatrizesFixacaoExercise.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\obj\Debug\netcoreapp2.1\MatrizesFixacaoExercise.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\obj\Debug\netcoreapp2.1\MatrizesFixacaoExercise.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\obj\Debug\netcoreapp2.1\MatrizesFixacaoExercise.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\obj\Debug\netcoreapp2.1\MatrizesFixacaoExercise.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\MatrizesFixacaoExercise\MatrizesFixacaoExercise\obj\Debug\netcoreapp2.1\MatrizesFixacaoExercise.pdb
