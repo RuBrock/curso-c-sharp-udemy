@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.pdb
