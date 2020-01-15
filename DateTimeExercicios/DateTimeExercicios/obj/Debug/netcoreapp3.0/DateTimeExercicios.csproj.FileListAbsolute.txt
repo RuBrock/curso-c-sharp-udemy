@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\bin\Debug\netcoreapp3.0\DateTimeExercicios.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\obj\Debug\netcoreapp3.0\DateTimeExercicios.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\obj\Debug\netcoreapp3.0\DateTimeExercicios.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\obj\Debug\netcoreapp3.0\DateTimeExercicios.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\obj\Debug\netcoreapp3.0\DateTimeExercicios.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\DateTimeExercicios\DateTimeExercicios\obj\Debug\netcoreapp3.0\DateTimeExercicios.pdb
