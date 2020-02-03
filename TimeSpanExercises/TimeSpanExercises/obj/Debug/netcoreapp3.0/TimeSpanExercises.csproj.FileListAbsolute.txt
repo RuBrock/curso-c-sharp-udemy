@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\bin\Debug\netcoreapp3.0\TimeSpanExercises.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\obj\Debug\netcoreapp3.0\TimeSpanExercises.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\obj\Debug\netcoreapp3.0\TimeSpanExercises.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\obj\Debug\netcoreapp3.0\TimeSpanExercises.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\obj\Debug\netcoreapp3.0\TimeSpanExercises.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\TimeSpanExercises\TimeSpanExercises\obj\Debug\netcoreapp3.0\TimeSpanExercises.pdb
