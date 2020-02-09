@@ -1,0 +1,11 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\bin\Debug\netcoreapp2.1\EnumExercises.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\bin\Debug\netcoreapp2.1\EnumExercises.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\bin\Debug\netcoreapp2.1\EnumExercises.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\bin\Debug\netcoreapp2.1\EnumExercises.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\bin\Debug\netcoreapp2.1\EnumExercises.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-udemy\EnumExercises\EnumExercises\obj\Debug\netcoreapp2.1\EnumExercises.pdb
