@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\bin\Debug\netcoreapp3.0\CompExercises.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\obj\Debug\netcoreapp3.0\CompExercises.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\obj\Debug\netcoreapp3.0\CompExercises.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\obj\Debug\netcoreapp3.0\CompExercises.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\obj\Debug\netcoreapp3.0\CompExercises.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\CompExercises\CompExercises\obj\Debug\netcoreapp3.0\CompExercises.pdb
