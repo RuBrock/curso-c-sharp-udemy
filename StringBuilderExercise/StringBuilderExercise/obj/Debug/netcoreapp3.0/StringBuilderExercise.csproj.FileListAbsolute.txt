@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\bin\Debug\netcoreapp3.0\StringBuilderExercise.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\obj\Debug\netcoreapp3.0\StringBuilderExercise.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\obj\Debug\netcoreapp3.0\StringBuilderExercise.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\obj\Debug\netcoreapp3.0\StringBuilderExercise.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\obj\Debug\netcoreapp3.0\StringBuilderExercise.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\StringBuilderExercise\StringBuilderExercise\obj\Debug\netcoreapp3.0\StringBuilderExercise.pdb

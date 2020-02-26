@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\obj\Debug\netcoreapp3.0\FixacaoEnumComp.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\obj\Debug\netcoreapp3.0\FixacaoEnumComp.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\obj\Debug\netcoreapp3.0\FixacaoEnumComp.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\bin\Debug\netcoreapp3.0\FixacaoEnumComp.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\obj\Debug\netcoreapp3.0\FixacaoEnumComp.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\FixacaoEnumComp\FixacaoEnumComp\obj\Debug\netcoreapp3.0\FixacaoEnumComp.pdb
