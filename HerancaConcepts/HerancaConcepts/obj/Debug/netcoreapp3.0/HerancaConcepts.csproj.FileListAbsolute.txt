@@ -1,0 +1,11 @@
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.exe
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.deps.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.runtimeconfig.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.runtimeconfig.dev.json
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\bin\Debug\netcoreapp3.0\HerancaConcepts.pdb
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\obj\Debug\netcoreapp3.0\HerancaConcepts.csprojAssemblyReference.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\obj\Debug\netcoreapp3.0\HerancaConcepts.AssemblyInfoInputs.cache
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\obj\Debug\netcoreapp3.0\HerancaConcepts.AssemblyInfo.cs
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\obj\Debug\netcoreapp3.0\HerancaConcepts.dll
+C:\Users\testinho\Desktop\curso-c-sharp-udemy\HerancaConcepts\HerancaConcepts\obj\Debug\netcoreapp3.0\HerancaConcepts.pdb
